@@ -1,0 +1,13 @@
+com\testspringhibernate\service\DatadetailsServiceImpl.class
+com\testspringhibernate\Initializer\MyWebAppInitializer.class
+com\testspringhibernate\controller\ControllerTest.class
+com\testspringhibernate\dao\GenericDaoImpl.class
+com\testspringhibernate\dao\DatadetailsDaoImpl.class
+com\testspringhibernate\configuration\HibernateConfig.class
+com\testspringhibernate\configuration\WebMvcConfig.class
+com\testspringhibernate\controller\TestController.class
+com\testspringhibernate\dao\DatadetailsDao.class
+com\testspringhibernate\dao\GenericDao.class
+com\testspringhibernate\model\Datadetails.class
+com\testspringhibernate\service\DatadetailsService.class
+com\testspringhibernate\controller\SpringController.class
